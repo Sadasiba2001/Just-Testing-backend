@@ -1,0 +1,2 @@
+from testing_app.Register_View.register_view import UserRegister
+from testing_app.Login_View.login_view import UserLogin
